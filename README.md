@@ -50,10 +50,11 @@ DIFFERENTIATOR
 <img width="757" height="447" alt="image" src="https://github.com/user-attachments/assets/3bb38583-c020-43ad-8b15-c03f1f545842" />
 
 TABULATION:
-
+<img width="1280" height="712" alt="image" src="https://github.com/user-attachments/assets/f48bd9bb-7c58-473f-994a-3e01dd3b1075" />
 
 GRAPH:
-
+<img width="1132" height="1280" alt="image" src="https://github.com/user-attachments/assets/7b4e4196-abb5-4cd4-957d-6f30a475dc82" />
 
 RESULT:
+Thus the differentiator is designed and tested using Op-amp.
 
